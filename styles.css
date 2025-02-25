@@ -1,9 +1,9 @@
+body {
+  background-image: url("https://cdn-prod.medicalnewstoday.com/content/images/articles/321/321246/olive-oil-in-a-bottle-which-may-be-used-on-the-face.jpg");
+}
 h1 {
   text-align: center;
   color:#0f0f0f;
-}
-body {
-  background-image: url("https://cdn-prod.medicalnewstoday.com/content/images/articles/321/321246/olive-oil-in-a-bottle-which-may-be-used-on-the-face.jpg");
 }
 ul {
   list-style-type: square;
