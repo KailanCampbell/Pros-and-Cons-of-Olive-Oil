@@ -14,7 +14,9 @@ h1 {
 }
 ul {
   list-style-type: square;
-  font-size: 16px;
+}
+ul li{
+   font-size: 16px;
   font-family: Serif;
   color: gray;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
