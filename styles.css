@@ -1,5 +1,9 @@
 body {
   background-image: url("https://cdn-prod.medicalnewstoday.com/content/images/articles/321/321246/olive-oil-in-a-bottle-which-may-be-used-on-the-face.jpg");
+  background-width: 1250px;
+  background-height: 800px;
+  background-opacity: 0.5;
+  background-border: 5px dotted black;
   font-size: 16px;
   font-family: Serif;
   color: grey;
