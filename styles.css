@@ -3,7 +3,7 @@ h1 {
   color:#0f0f0f;
 }
 body {
-  background-image: url("oliveoil.jpeg)";
+  background-image: "oliveoil.jpeg";
 }
 ul {
   list-style-type: square;
