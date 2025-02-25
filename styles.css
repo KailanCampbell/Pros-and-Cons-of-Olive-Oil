@@ -4,10 +4,6 @@ body {
   background-height: 800px;
   background-opacity: 0.5;
   background-border: 5px dotted black;
-  font-size: 16px;
-  font-family: Serif;
-  color: gray;
-  border: 5px dotted black;
 }
 img {
   width: 1250px;
@@ -24,4 +20,8 @@ h1 {
 }
 ul {
   list-style-type: square;
+  font-size: 16px;
+  font-family: Serif;
+  color: gray;
+  border: 5px dotted black;
 }
