@@ -11,12 +11,17 @@ h1 {
   font-size: 32px;
   font-family: Serif;
 }
+p {
+  color: white;
+  font-size: 24px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
+}
 ul {
   list-style-type: square;
 }
 ul li{
   font-size: 16px;
   font-family: Serif;
-  color: white;
+  color: black;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
 }
