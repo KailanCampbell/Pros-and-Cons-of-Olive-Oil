@@ -11,6 +11,13 @@ h1 {
   font-size: 32px;
   font-family: Serif;
 }
+h2 {
+  text-align: left;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-size: 24px;
+  font-family: Serif;
+}
 p {
   color: white;
   font-size: 24px;
